@@ -8,8 +8,7 @@ __pycache__/
 # MLflow
 mlruns/
 
-# Data (optional - adjust later)
-data/
+
 
 # System files
 .DS_Store
