@@ -13,7 +13,7 @@ IMAGE_SIZE = 128
 BATCH_SIZE = 8
 
 LEARNING_RATE = 1e-3
-EPOCHS = 2
+EPOCHS = 4
 
 
 def train_one_epoch(model, loader, optimizer, criterion, device):
